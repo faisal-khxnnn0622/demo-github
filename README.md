@@ -1,4 +1,4 @@
 # demo-github
 This is my practice repo
 <br>
-Author - Faisal khan
+Author - Faisal khxnnn (student)
